@@ -1,0 +1,43 @@
+{
+    "name": "Olivier Pinon",
+    "occupation": "Cybersecurity Consultant",
+    "location": "Paris, FR",
+    "avatar": "avatar.jpg",
+    "pronouns": "he/him",
+    "email": "hello@olivierpinon.com",
+    "telephone": "+33 123 456 78",
+    "website": "https://olivierpinon.com",
+    "skills": [
+        "Windows Security",
+        "Linux Security",
+        "Networking Security",
+        "HTML",
+        "Python"
+    ],
+    "languages": [
+        {
+            "name": "French",
+            "level": "native"
+        },
+        {
+            "name": "English",
+            "level": "fluent"
+        },
+        {
+            "name": "German",
+            "level": "basic"
+        }
+    ],
+    "social": [
+        {
+            "name": "Github",
+            "user": "@olivierpinon",
+            "url": "https://github.com/olivierpinon"
+        },
+        {
+            "name": "LinkedIn",
+            "user": "OlivierPinon",
+            "url": "https://www.linkedin.com/in/olivierpinon"
+        }
+    ]
+}
